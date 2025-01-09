@@ -30,7 +30,6 @@ about-author: I completed my Bachelor of Engineering in Mechanical Engineering f
 
 # Contact links
 email: iamanantalok@gmail.com # Add your Email address
-phone: # Add your Phone number
 website: https://anant-alok.github.io # Add your website
 linkedin: Anant Alok # Add your Linkedin handle
 github: iamanantalok # Add your Github handle
@@ -46,16 +45,16 @@ words_per_minute: 200
 extensions:
   mermaid_enable: true
 
-# Comments
-comments: utteranc  #[disqus, utteranc]
-comments_opts:
-  comments_curtain: yes # leave empty to show the disqus embed directly
-  repo: # The GitHub repo URL.  https://utteranc.es/
-  issue_term: # The GitHub issue label
-  label: # The GitHub comments label
-  theme: # The GitHub comment's there. e.g. github-dark
-  # Disqus
-  discus_identifier: @disqus_M57PMEHAOI # Add your discus identifier
+# # Comments
+# comments: utteranc  #[disqus, utteranc]
+# comments_opts:
+#   comments_curtain: yes # leave empty to show the disqus embed directly
+#   repo: # The GitHub repo URL.  https://utteranc.es/
+#   issue_term: # The GitHub issue label
+#   label: # The GitHub comments label
+#   theme: # The GitHub comment's there. e.g. github-dark
+#   # Disqus
+#   discus_identifier: @disqus_M57PMEHAOI # Add your discus identifier
 
 # Build settings
 markdown: kramdown
